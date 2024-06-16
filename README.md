@@ -195,4 +195,8 @@ CREATE TABLE IF NOT EXISTS courses (
   ```
 
 ## Conclusion
+<<<<<<< HEAD
 This College Management System project leverages Java for its backend logic and MySQL for data storage. It offers functionalities for managing students, courses, enrollments, and fees efficiently. The structure and queries provided ensure proper database management and seamless interaction with the system.  
+=======
+This College Management System project leverages Java for its backend logic and MySQL for data storage. It offers functionalities for managing students, courses, enrollments, and fees efficiently. The structure and queries provided ensure proper database management and seamless interaction with the system.  
+>>>>>>> 0f2e4585c84844157431395f3ab9685f2507f37e
